@@ -1,0 +1,16 @@
+quest{
+  solarus_version = "1.6",
+  write_dir = "c46fdac2-b41c-4ca8-8025-8c8e19751d82",
+  title = "Perlshaw's Problems",
+  short_description = "",
+  long_description = [[
+The town of Perlshaw has its share of troubles, and it's up to Eldran to solve them!]],
+  author = "Nintaku",
+  quest_version = "0.8",
+  release_date = "",
+  website = "",
+  normal_quest_size = "320x240",
+  min_quest_size = "320x240",
+  max_quest_size = "320x240",
+}
+

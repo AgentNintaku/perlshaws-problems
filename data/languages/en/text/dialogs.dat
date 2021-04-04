@@ -1,0 +1,298 @@
+dialog{
+  id = "_treasure.sword.1",
+  text = [[
+A fine sword, fit for a hero!
+]],
+}
+
+dialog{
+  id = "_treasure.tunic.2",
+  text = [[
+An elegant tunic, but tough
+enough for adventuring!
+]],
+}
+
+dialog{
+  id = "enio.bored",
+  text = [[
+Enio: "Ugh, there's nothing to do
+around here!"
+]],
+}
+
+dialog{
+  id = "enio.help",
+  text = [[
+Enio: "Edran! There are
+monsters everywhere! I'm just a
+kid, I can't fight them! Help me!"
+]],
+}
+
+dialog{
+  id = "enio.home",
+  text = [[
+Enio: "I guess sometimes
+boring is better, right?"
+]],
+}
+
+dialog{
+  id = "enio.thanks",
+  text = [[
+Enio: "Thanks for fighting off the
+monsters! That was cool! Guess
+I gotta go back home now."
+]],
+}
+
+dialog{
+  id = "kaleido.restaurant",
+  text = [[
+Kaleido: "I'm just a wizard, don't
+mind me."
+]],
+}
+
+dialog{
+  id = "perlshaw.boss_defeated",
+  text = [[
+Huzzah! You've defeated the
+goblin shaman threatening the
+town and beaten the game!
+]],
+}
+
+dialog{
+  id = "perlshaw.boss_taunt",
+  text = [[
+Shaman: "You people have
+caused us enough trouble! Get
+away from our forest!
+"Gettem', boys!"
+]],
+}
+
+dialog{
+  id = "perlshaw.clothier_sign",
+  text = [[
+       Birdsong Boutique
+Tunics, Dresses, Formal Wear
+See Ukemi for sizing!
+]],
+}
+
+dialog{
+  id = "perlshaw.fresh_well",
+  text = [[
+
+Ah, refreshing water!
+]],
+}
+
+dialog{
+  id = "perlshaw.restaurant_sign",
+  text = [[
+       Sauce & Stuff
+Today's Lunch Special:
+MLT (Mutton, Lettuce & Tomato)
+]],
+}
+
+dialog{
+  id = "perlshaw.road_sign",
+  text = [[
+Right to Pearlshaw Mine
+North to Pearlshaw Forest
+Warning! Monsters ahead!
+]],
+}
+
+dialog{
+  id = "perlshaw.start",
+  text = [[
+This is Edran's home, Perlshaw.
+His neighbors need his help!
+Maybe start with the smith.
+]],
+}
+
+dialog{
+  id = "rogi.accepted",
+  text = [[
+Rogi: "Oh thank you! The mine
+is north from here. Good luck!"
+]],
+}
+
+dialog{
+  id = "rogi.give_sword",
+  text = [[
+Rogi: "You brought Tom back!
+Thank you! Here's that sword I
+promised you."
+]],
+}
+
+dialog{
+  id = "rogi.no",
+  text = [[
+Rogi: "I suppose I'll have to go
+find him myself, then."
+]],
+}
+
+dialog{
+  id = "rogi.quest",
+  question = "1",
+  text = [[
+Rogi: "Can you find my brother
+Tom? He hasn't come back from
+the mine for hours! There's a
+sword in it for you!"
+
+
+Edran:
+"Of course!"
+"Not my problem."
+]],
+}
+
+dialog{
+  id = "rogi.thanks",
+  text = [[
+Rogi: "I'm glad you got Tom
+home, but now he's hungry
+again."
+]],
+}
+
+dialog{
+  id = "rogi.waiting",
+  text = [[
+Rogi: "Thank you for looking for
+Tom . He should be in
+the mines north of here."
+]],
+}
+
+dialog{
+  id = "souci.got_tom_food",
+  text = [[
+Souci: "I hope Tom
+likes the meal!"
+]],
+}
+
+dialog{
+  id = "souci.help_tom",
+  text = [[
+Souci: "Oh no! Tom needs food
+badly? Here, take this to him!"
+
+
+Souci gave you a meal for Tom!
+]],
+}
+
+dialog{
+  id = "souci.welcome",
+  text = [[
+Souci: "Hi there, Edran!
+Welcome to Souci's Sauce &
+Stuff! Hungry?"
+]],
+}
+
+dialog{
+  id = "tom.no",
+  text = [[
+Tom: "What?! You want me
+to starve down here?"
+]],
+}
+
+dialog{
+  id = "tom.quest",
+  question = "1",
+  text = [[
+Tom: "I'm so hungry, I can't swing
+my pickaxe! Hey Edran, could
+you bring me some food?"
+Edran:
+"I'm on it!"
+"Eat a rock."
+]],
+}
+
+dialog{
+  id = "tom.thanks",
+  text = [[
+Tom: "Oh thank you! You're a
+lifesaver! I'll head back home
+now."
+]],
+}
+
+dialog{
+  id = "tom.thanks_again",
+  text = [[
+Tom: "Thanks again for the food,
+Edran! I made it back before my
+sister got too mad at me!"
+]],
+}
+
+dialog{
+  id = "tom.waiting",
+  text = [[
+Tom: "Thanks a
+bunch, I can't wait!"
+]],
+}
+
+dialog{
+  id = "ukemi.enio_home",
+  text = [[
+Ukemi: "That boy better learn his
+lesson about running off into
+monster-infested forests alone."
+]],
+}
+
+dialog{
+  id = "ukemi.give_tunic",
+  text = [[
+Ukemi: "Thank you for finding my
+son! You can have my finest work
+as a reward!"
+]],
+}
+
+dialog{
+  id = "ukemi.greet",
+  text = [[
+Ukemi: "Hi, Edran. I'm working
+on a new tunic. Can you keep an
+eye on Enio outside?"
+]],
+}
+
+dialog{
+  id = "ukemi.quest",
+  text = [[
+Ukemi: "Oh no! I think Enio's
+gone into the forest! Please find
+him before monsters do!"
+]],
+}
+
+dialog{
+  id = "ukemi.waiting",
+  text = [[
+Ukemi: "Please find Enio! I think
+he's in the forest north of town!"
+]],
+}
+

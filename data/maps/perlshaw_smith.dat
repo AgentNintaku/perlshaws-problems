@@ -1,0 +1,638 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  world = "perlshaw_town",
+  floor = 0,
+  tileset = "oceanset_inside",
+  music = "same",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "20_21",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 0,
+  width = 256,
+  height = 32,
+  pattern = "35_5",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 0,
+  width = 32,
+  height = 32,
+  pattern = "36_5",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 32,
+  height = 32,
+  pattern = "34_5",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 208,
+  width = 32,
+  height = 32,
+  pattern = "40_6",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 32,
+  width = 32,
+  height = 176,
+  pattern = "41_5",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 208,
+  width = 32,
+  height = 32,
+  pattern = "38_5",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 32,
+  width = 32,
+  height = 176,
+  pattern = "37_6",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 208,
+  width = 256,
+  height = 32,
+  pattern = "39_6",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 208,
+  width = 16,
+  height = 32,
+  pattern = "52_3",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 208,
+  width = 8,
+  height = 32,
+  pattern = "50_4",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 208,
+  width = 8,
+  height = 32,
+  pattern = "51_4",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 24,
+  width = 32,
+  height = 24,
+  pattern = "106",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 24,
+  width = 16,
+  height = 16,
+  pattern = "110",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 184,
+  width = 16,
+  height = 24,
+  pattern = "77",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 184,
+  width = 8,
+  height = 24,
+  pattern = "78",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 184,
+  width = 8,
+  height = 24,
+  pattern = "76",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 184,
+  width = 16,
+  height = 24,
+  pattern = "77",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 184,
+  width = 8,
+  height = 24,
+  pattern = "78",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 184,
+  width = 8,
+  height = 24,
+  pattern = "76",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 184,
+  width = 16,
+  height = 24,
+  pattern = "77",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 184,
+  width = 8,
+  height = 24,
+  pattern = "78",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 184,
+  width = 8,
+  height = 24,
+  pattern = "76",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 184,
+  width = 16,
+  height = 16,
+  pattern = "42",
+  tileset = "castle",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 8,
+  width = 16,
+  height = 16,
+  pattern = "83",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 8,
+  width = 16,
+  height = 16,
+  pattern = "83",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 216,
+  width = 16,
+  height = 16,
+  pattern = "85",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 216,
+  width = 16,
+  height = 16,
+  pattern = "85",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 72,
+  width = 8,
+  height = 24,
+  pattern = "78",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 72,
+  width = 16,
+  height = 24,
+  pattern = "77",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 72,
+  width = 8,
+  height = 24,
+  pattern = "76",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 24,
+  width = 16,
+  height = 16,
+  pattern = "108",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "82",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "84",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 24,
+  width = 16,
+  height = 16,
+  pattern = "66",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 24,
+  width = 32,
+  height = 48,
+  pattern = "112_2",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 24,
+  width = 24,
+  height = 24,
+  pattern = "70",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 72,
+  width = 16,
+  height = 16,
+  pattern = "89",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 72,
+  width = 8,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 184,
+  width = 48,
+  height = 24,
+  pattern = "77",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 184,
+  width = 8,
+  height = 24,
+  pattern = "76",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 184,
+  width = 8,
+  height = 24,
+  pattern = "78",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 72,
+  width = 48,
+  height = 24,
+  pattern = "77",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 72,
+  width = 8,
+  height = 24,
+  pattern = "76",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 72,
+  width = 8,
+  height = 24,
+  pattern = "78",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 184,
+  width = 16,
+  height = 16,
+  pattern = "89",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 72,
+  width = 16,
+  height = 16,
+  pattern = "89",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 80,
+  width = 16,
+  height = 8,
+  pattern = "93",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 184,
+  width = 16,
+  height = 16,
+  pattern = "94",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 72,
+  width = 16,
+  height = 8,
+  pattern = "91",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 184,
+  width = 16,
+  height = 16,
+  pattern = "222",
+  tileset = "castle",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 72,
+  width = 32,
+  height = 48,
+  pattern = "112_3",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 32,
+  width = 48,
+  height = 16,
+  pattern = "68",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "221",
+  tileset = "oceanset_outside",
+}
+
+destination{
+  name = "destination",
+  layer = 0,
+  x = 160,
+  y = 221,
+  direction = 1,
+}
+
+npc{
+  name = "Rogi",
+  layer = 0,
+  x = 160,
+  y = 133,
+  enabled_at_start = false,
+  direction = 0,
+  subtype = 1,
+  sprite = "npc/woman_1f",
+}
+
+teletransporter{
+  layer = 0,
+  x = 152,
+  y = 224,
+  width = 16,
+  height = 16,
+  destination_map = "perlshaw",
+  destination = "from_smith",
+}
+
+dynamic_tile{
+  name = "Stool",
+  layer = 0,
+  x = 184,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "75",
+}
+
+dynamic_tile{
+  name = "Display",
+  layer = 0,
+  x = 72,
+  y = 184,
+  width = 24,
+  height = 16,
+  pattern = "43",
+  tileset = "castle",
+}
+
+dynamic_tile{
+  name = "Stool_2",
+  layer = 0,
+  x = 136,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "75",
+}
+
+dynamic_tile{
+  name = "Stool_3",
+  layer = 0,
+  x = 256,
+  y = 168,
+  width = 16,
+  height = 16,
+  pattern = "75",
+}
+
+npc{
+  name = "Tom",
+  layer = 0,
+  x = 224,
+  y = 133,
+  enabled_at_start = false,
+  direction = 3,
+  subtype = 1,
+  sprite = "npc/tom",
+}
+
+tile{
+  layer = 1,
+  x = 144,
+  y = 224,
+  width = 32,
+  height = 16,
+  pattern = "53_4",
+}
+
+tile{
+  layer = 1,
+  x = 248,
+  y = 8,
+  width = 32,
+  height = 16,
+  pattern = "107",
+}
+
+tile{
+  layer = 1,
+  x = 184,
+  y = 8,
+  width = 16,
+  height = 16,
+  pattern = "67",
+}
+
+tile{
+  layer = 1,
+  x = 112,
+  y = 8,
+  width = 24,
+  height = 16,
+  pattern = "71",
+}
+
+tile{
+  layer = 1,
+  x = 136,
+  y = 24,
+  width = 48,
+  height = 8,
+  pattern = "69",
+}
+
+tile{
+  layer = 1,
+  x = 32,
+  y = 152,
+  width = 16,
+  height = 8,
+  pattern = "222",
+  tileset = "oceanset_outside",
+}
+
